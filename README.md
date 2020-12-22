@@ -39,17 +39,17 @@ Once you have cloned the repository, you can import the project to your preferre
 ## Screenshots
 
 <p align="center">
-  <img width="460" src="./screenshots/.png">
+  <img width="460" src="./screenshots/no-wraparound.png">
   <br>
-  Drone path on 28/12/2021
+  2D grid example
 </p>
 
 <hr>
 
 <p align="center">
-  <img width="460" src="./screenshots/.png">
+  <img width="460" src="./screenshots/wraparound.png">
   <br>
-  Drone path on 27/03/2020
+  2D grid example including wraparounds
 </p>
 
 
