@@ -1,4 +1,4 @@
-# Computer Systems - Search Puzzle Solver (2019 - 2020)
+# Search Puzzle Solver (2019 - 2020)
 
 <b>Course Name:</b> Informatics 2C - Introduction to Computer Systems
 <br><b>Coursework Name:</b> MIPS Assembly Language Programming
