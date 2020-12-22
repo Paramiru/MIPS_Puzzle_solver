@@ -39,7 +39,7 @@ Once you have cloned the repository, you can import the project to your preferre
 ## Screenshots
 
 <p align="center">
-  <img width="460" src="./screenshots/no-wraparound.png">
+  <img width="470" src="./screenshots/no-wraparound.png">
   <br>
   2D grid example
 </p>
@@ -47,7 +47,7 @@ Once you have cloned the repository, you can import the project to your preferre
 <hr>
 
 <p align="center">
-  <img width="460" src="./screenshots/wraparound.png">
+  <img width="470" src="./screenshots/wraparound.png">
   <br>
   2D grid example including wraparounds
 </p>
